@@ -1,0 +1,47 @@
+[33mcommit 2d056a8bd14e348c2d634fdc030f60d9c8b1c2bb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 23:25:40 2025 -0600
+
+    component CounterApp
+
+[33mcommit 8c71442e9d4f5839c7eb6af3e0b45a3323937831[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 22:27:51 2025 -0600
+
+    components properties
+
+[33mcommit a18d74a683df6d7efc30057c8a6a9cec6886f47d[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 22:12:03 2025 -0600
+
+    print variable
+
+[33mcommit 238de8033421368d64d6c0c107e12d3d2d80aa82[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 21:17:41 2025 -0600
+
+    component fragment
+
+[33mcommit 2f9f8b0f1f0b9954af2ac6334350f3ca4dea050f[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 18:08:05 2025 -0600
+
+    create new component
+
+[33mcommit 3322729cd94569ae3ac3516c07c55d8fcfdb6a94[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 18:04:11 2025 -0600
+
+    first component
+
+[33mcommit ec389c1f64376cc6f60aa9a56c42c18cf8646662[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 17:54:34 2025 -0600
+
+    hello world in react
+
+[33mcommit dbaf0aa802e3045114709772337844a12482574f[m
+Author: king-beard <chucho_herrera10@icloud.com>
+Date:   Tue Feb 11 17:43:31 2025 -0600
+
+    first commit
