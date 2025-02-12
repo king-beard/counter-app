@@ -1,5 +1,10 @@
+import { Fragment } from "react"
+
 export const FirstApp = () => {
   return (
-    <h1>Kakaroto!!!!</h1>
+    <Fragment>
+      <h1>Kakaroto!!!!</h1>
+      <p>Kakaroto!!!!</p>
+    </Fragment>
   )
 }
