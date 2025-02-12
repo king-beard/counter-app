@@ -1,9 +1,9 @@
 import { Fragment } from "react"
 
-export const FirstApp = () => {
+export const FirstApp = ({title}) => {
   return (
     <Fragment>
-      <h1>Jesus</h1>
+      <h1>{title}</h1>
       <p>Kakaroto!!!!</p>
     </Fragment>
   )
